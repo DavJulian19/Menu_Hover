@@ -2,7 +2,7 @@
 
 Hello!!! This project is a web **Menu**, which allows you to understand the purpose of it easily. It also includes features that enhance the experience.
 
-Menu Hover *featurer* is implemented using **HTML, CSS and JavaScript**.
+The *Feature* is implemented using **HTML, CSS and JavaScript**.
 
 ## Current Functionality
 
